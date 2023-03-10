@@ -1,4 +1,4 @@
-<#include "goo.h"
+#include "goo.h"
 
 int getValue(int a, int b)
 {
